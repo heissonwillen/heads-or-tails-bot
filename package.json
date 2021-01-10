@@ -1,0 +1,22 @@
+{
+  "name": "heads-or-tails-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heissonwillen/heads-or-tails-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heissonwillen/heads-or-tails-bot/issues"
+  },
+  "homepage": "https://github.com/heissonwillen/heads-or-tails-bot#readme",
+  "dependencies": {
+    "telegram-bot-api": "^2.0.1"
+  }
+}
