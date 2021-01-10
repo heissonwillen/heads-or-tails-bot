@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/heissonwillen/heads-or-tails-bot#readme",
   "dependencies": {
-    "telegram-bot-api": "^2.0.1"
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.51.0"
   }
 }
