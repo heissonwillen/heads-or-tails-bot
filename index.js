@@ -9,7 +9,7 @@ bot.onText(/\/flip/, (msg) => {
   const photoPath = `img/coin/${result}.png`;
 
   bot.sendPhoto(chatId, photoPath, {
-    caption:  ["Cara", "Coroa"][result],
+    caption: ["Cara", "Coroa"][result],
   });
 });
 
